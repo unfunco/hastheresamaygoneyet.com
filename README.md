@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/unfunco/hastheresamaygoneyet.com.svg?branch=master)](https://travis-ci.org/unfunco/hastheresamaygoneyet.com)
 
-Waiting for the final moments of Theresa May's disastrous time as leader of the
+Waiting for the final moment of Theresa May's disastrous stint as leader of the
 Conservative and Unionist Party and Prime Minister of the United Kingdom.
 
 ## License

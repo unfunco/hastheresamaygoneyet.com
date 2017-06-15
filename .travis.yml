@@ -15,4 +15,4 @@ sudo: false
 notification:
   email:
     recipients:
-    - daniel@honestempire.com
+      - daniel@honestempire.com
