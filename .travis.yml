@@ -1,0 +1,18 @@
+deploy:
+  access_key_id: AKIAIAONJQC3ALPCM3NQ
+  acl: public_read
+  bucket: hastheresamaygoneyet.com
+  dot_match: true
+  local_dir: public
+  provider: s3
+  region: eu-west-2
+  secret_access_key:
+    secure: sNC6F1l9C74mfGtYNbSLr1CDBwMf+A2EVXn/YSs3WHLAxPXZznwlamE+nx6P3hMp+tdZYrbbdJ8/ePxau7jG/MSCcakiI9Hp3lf38upcvAJwLp6GuMGRYiPDinvsZ9lUUAxH2PqEn+pP06ykn+fUP3aJ4Ik73jEH6p++bf8iEJZvN/QpOa/3Ofd2iN6NB/njrU56SnO4V4bln2ElRd4+QQzG1ZecfwmHqmtTydFLgwHCor7mVM/fVNT8VExgj16dO1jRkk7SijXEKz9sllYJslSVovCDYpxoyVfVEtf799suIQSjtYA8RoeF8ZOPsP9AMm/Hpkk1uJi1e6sd8Ac6v8Eqnxn74s71+6oBKDaaVTLlXKhPnhgyhuQuZh2AMZopMvi3EU0O/PPUNvsNG8IJuBNu4bofgvQyQN3p1sXu5DNtOHXrPf+AlqX4TO9gPq49aBkyNwgWzxveynpgOWtboPKkgxxGNZwzlb+aKyhg1Ct1TfZ4tQTZ7EvBQnnlLBiaPY6hNqsvhyBIKMK2xq17606bS+keNn87k7C7kuqeXwDDqTew2SHZCGrgRGESsH9PYLjYAJJdH7QUqsmJpVx1s2YsWDzql8IlwEqEvZrB8y08UyMInFDgWy2Tvoux2YPYlSHpCCj0Sk6TW1oEFRwmSwdGhjLLJzAe21Nu2c8mkHs=
+  skip_cleanup: true
+
+sudo: false
+
+notification:
+  email:
+    recipients:
+    - daniel@honestempire.com
